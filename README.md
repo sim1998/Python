@@ -40,3 +40,8 @@ In the scripts the comments etc are lined up correctly when they are viewed in [
 
 - `get_youtube_view.py` - This is very simple python script to get more views for your youtube videos.Some times I use for repeating my favorite songs by this scripts.
 - `CountMillionCharacter.py` - This Script will,counting character script count how much character present *any text based file.
+- `python` - introduction
+Python was originally conceived and developed by a Dutchman named Guido van Rossum in the early 90’s.
+Though he is widely credited with the creation of Python, he had a lot of help from other contributors. 
+Over the years, Guido and his team continued to improve the software until May of 2000 when they officially made the transition to BeOpen.com and made the software much more readily available to the world.
+It was no more than a year later, in 2001, when the PSF (Python Software Foundation) was created.
